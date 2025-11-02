@@ -284,3 +284,17 @@ tools:context=".SegundaActivity">
     <string name="Age">Edad</string>
 </resources>
 ```
+
+---
+
+## Capturas de ejecución
+
+### Captura de ejecución 1:
+
+<img width="1710" height="929" alt="image" src="https://github.com/user-attachments/assets/debe12c5-f32a-426d-8d61-e9e4ab310c38" />
+
+---
+
+### Captura de ejecución 2:
+
+<img width="1817" height="924" alt="image" src="https://github.com/user-attachments/assets/30e55e6e-edbf-4c0b-ae72-2460ab3db19e" />
