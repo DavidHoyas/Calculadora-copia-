@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="Boton">Ir</string>
+    <string name="Texto">Activity1</string>
+    <string name="Texto_Segunda">Activity2</string>
+    <string name="BotonNavegar">Navegar</string>
+    <string name="msg_click_boton">Ir</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="Name">Nombre</string>
+    <string name="Surname">Apellidos</string>
+    <string name="Age">Edad</string>
+</resources>
